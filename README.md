@@ -1,2 +1,3 @@
 # TRIGGERED
 AutoTRIGGERED Web-Cam based program
+ AUTONOTE: UPDATE THE LIBS !!!!!
